@@ -1,0 +1,4 @@
+classes=2
+train=siam_cone_data/train.txt
+valid=siam_cone_data/val.txt
+names=data/siamcone.names
